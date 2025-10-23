@@ -13,4 +13,4 @@ moves each cell back to its correct location.
 
 > [!NOTE]
 > The code is scrappy and was thrown together to quickly generate some
-powerpoint animations - don't judge!
+powerpoint animations
