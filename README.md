@@ -10,3 +10,7 @@ The final animation starts from the "exploded" lattice and iteratively
 moves each cell back to its correct location.
 
 ![Image of Voronoi Elephant](elephant.png)
+
+> [!NOTE]
+> The code is scrappy and was thrown together to quickly generate some
+powerpoint animations - don't judge!
