@@ -9,4 +9,4 @@ starting locations.
 The final animation starts from the "exploded" lattice and iteratively
 moves each cell back to its correct location.
 
-![elephant.png]
+![Image of Voronoi Elephant](elephant.png)
